@@ -1,5 +1,5 @@
 # AutoPeer
-An open source system that helps network operators automate their internet peering. Facilitating secure inter-operator intent via API. AutoPeer is authored by [Antonio Faria](https://github.com/movedempackets), governed as a [benevolent dictatorship](CODE_OF_CONDUCT.md), and distributed under [license](LICENSE.md). 
+An open source system that helps network operators automate their internet peering. Facilitating secure inter-operator intent via API. AutoPeer is authored by [Antonio Faria](https://github.com/movedempackets), governed as a [benevolent dictatorship](CODE_OF_CONDUCT.md), and distributed under [license](LICENSE). 
 > [!WARNING]
 > AutoPeer is in construction, during this time no effort shall be afforded to migrations and backwards compatibility.
 
@@ -29,4 +29,4 @@ Releases will follow semantic versioning (major.minor.patch).
 Suggest a [feature]() or report a [bug](). Read our developer [guide](CONTRIBUTING.md).
 
 ## License
-AutoPeer is distributed under the Apache 2.0 [license](LICENSE.md).
+AutoPeer is distributed under the Apache 2.0 [license](LICENSE).
