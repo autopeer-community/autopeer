@@ -1,0 +1,7 @@
+{
+  "src/peer": "0.0.0",
+  "src/manager": "0.0.0",
+  "src/dispatcher": "0.0.0",
+  "src/sentinel": "0.0.0",
+  "src/share": "0.0.0"
+}

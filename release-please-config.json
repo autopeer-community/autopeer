@@ -1,0 +1,40 @@
+{
+  "packages": {
+    "src/peer": {
+      "changelog-path": "CHANGELOG.md",
+      "release-type": "python",
+      "bump-minor-pre-major": true,
+      "bump-patch-for-minor-pre-major": false,
+      "separate-pull-requests": true
+    },
+    "src/manager": {
+      "changelog-path": "CHANGELOG.md",
+      "release-type": "python",
+      "bump-minor-pre-major": true,
+      "bump-patch-for-minor-pre-major": false,
+      "separate-pull-requests": true
+    },
+    "src/dispatcher": {
+      "changelog-path": "CHANGELOG.md",
+      "release-type": "python",
+      "bump-minor-pre-major": true,
+      "bump-patch-for-minor-pre-major": false,
+      "separate-pull-requests": true
+    },
+    "src/sentinel": {
+      "changelog-path": "CHANGELOG.md",
+      "release-type": "python",
+      "bump-minor-pre-major": true,
+      "bump-patch-for-minor-pre-major": false,
+      "separate-pull-requests": true
+    },
+    "src/share": {
+      "changelog-path": "CHANGELOG.md",
+      "release-type": "python",
+      "bump-minor-pre-major": true,
+      "bump-patch-for-minor-pre-major": false,
+      "separate-pull-requests": true
+    }
+  },
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
+}
